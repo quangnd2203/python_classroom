@@ -1,2 +1,3 @@
-./.idea
-./Pipfile.lock
+.idea/
+Pipfile.lock
+__pycache__/
